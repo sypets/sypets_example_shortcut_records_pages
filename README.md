@@ -1,6 +1,6 @@
 Example for reproducing TYPO3 Issue:
 
-Record selector behaves differently depending for pages depending on where you click (left or right column)
+Record selector behaves differently for pages depending on where you click (left or right column)
 
 ## Reproduce
 
@@ -28,7 +28,7 @@ Add to composer.json:
 
 ```json
 "repositories": {
-		"sypets_example_findbyrelation_cli": {
+		"sypets_example_shortcut_records_pages": {
 			"type": "git",
 			"url": "https://github.com/sypets/sypets_example_shortcut_records_pages.git"
 		}
